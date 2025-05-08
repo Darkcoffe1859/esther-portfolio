@@ -11,8 +11,8 @@
           </p>
   
           <div class="contact-info">
-            <p><strong>Email:</strong> ebebe.esther@example.com</p>
-            <p><strong>Phone:</strong> +234 801 234 5678</p>
+            <p><strong>Email:</strong> estherebebe96@gmail.com</p>
+            <p><strong>Phone:</strong> +2348101057862</p>
             <p><strong>Location:</strong> Abuja, Nigeria</p>
           </div>
         </v-col>
