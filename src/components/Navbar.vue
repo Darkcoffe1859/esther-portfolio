@@ -6,7 +6,7 @@
         <v-icon>mdi-menu</v-icon>
       </v-app-bar-nav-icon>
 
-      <v-toolbar-title>My Portfolio</v-toolbar-title>
+      <v-toolbar-title>Esther Adaeze Ebebe Portfolio</v-toolbar-title>
 
       <v-spacer class="d-none d-md-flex" />
 

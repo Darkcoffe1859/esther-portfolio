@@ -33,7 +33,7 @@
         </v-list>
 
         <a :href="resumeLink" target="_blank" rel="noopener" download>
-          <v-btn color="primary" class="mt-6" rounded elevation="2" style="font-size: 16px; text-transform: none;">
+          <v-btn color="#1B5E20" class="mt-6" rounded elevation="2" style="font-size: 16px; text-transform: none;">
             <v-icon left>mdi-download</v-icon> Download Resume
           </v-btn>
         </a>
